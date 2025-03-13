@@ -1,4 +1,3 @@
-﻿"Adapted from the code (https://github.com/leena201818/radioml) contributed by leena201818"
 import os, random
 os.environ["KERAS_BACKEND"] = "tensorflow"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
