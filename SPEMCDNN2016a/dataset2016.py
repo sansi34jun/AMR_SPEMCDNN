@@ -1,4 +1,3 @@
-﻿"Adapted from the code (https://github.com/leena201818/radioml) contributed by leena201818"
 import pickle
 import numpy as np
 def l2_normalize(x, axis=-1):
