@@ -1,4 +1,3 @@
-"Adapted from the code (https://github.com/leena201818/radiom) contributed by leena201818"
 import matplotlib
 #matplotlib.use('Tkagg')
 import matplotlib.pyplot as plt 
